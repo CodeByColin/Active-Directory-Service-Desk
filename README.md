@@ -57,3 +57,7 @@ This project simulates a small enterprise Windows domain environment to demonstr
 | <img width="1021" height="765" alt="Screenshot 2026-01-17 163521" src="https://github.com/user-attachments/assets/a5b7a4c0-a324-4810-b795-7cc34f2c4a9d" /> | NTFS and share permissions for departmental file access |
 
 ---
+
+## Resume Summary Line
+
+**Active Directory Service Desk** – Built and administered a Windows Server domain environment with Active Directory and DNS, performing Tier 1 and Tier 2 IT support tasks including user provisioning, password resets, account lockout resolution, security group management, Organizational Unit (OU) design, Group Policy configuration, and role-based file access control using least-privilege principles.
